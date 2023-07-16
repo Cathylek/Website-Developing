@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <Head>
+    <Title> My Assignment </Title>
+  </Head>
+<Body>
+<!--start header-->
+  <h4>My first assignment</h4>
+  <h5>My second assignment</h5>
+  <h6>My third assignment</h6>
+<!--end header-->
+
+<!--start paragraph-->
+ <p><u>I am </u> a website <b> developer </b> </p>
+<!--end paragraph-->
+
+ <!--start of insert pic-->
+ 
+ <img src ="images/pic 2.jpg" alt="hehe" height="100px" width="200px">
+ <a> href="https://www.truthmultimedia.net" </a><img src ="images/pic 2.jpg" alt="hehe" height="100px" width="200px">
+
+
+ <!--end of insert pic-->
+
+
+
+
+</Body>
+</html>
